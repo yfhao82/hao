@@ -140,3 +140,6 @@
 #lorem(10)
 
 == wewe
+
+
+refer:https://typst.app/docs/tutorial/advanced-styling/
